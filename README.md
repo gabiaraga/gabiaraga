@@ -35,9 +35,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&username=gabiaraga" height="150" alt="languages graph"  />
 </div>
 
-## 📫 Contato
-
-- LinkedIn: [Gabi Aragão](https://www.linkedin.com/in/gabriela-araga/)
-- Email: gabiaragao.ti@gmail.com
 
 
