@@ -1,8 +1,8 @@
 ### Olá, Eu sou Gabriela Aragão 👋
 
 
-- 🔭 Desenvolvimento WEB Front-end e Back-end
-- 🌱 Estudando Java Script, React e Node.JS
+- 🖥️ Desenvolvimento WEB Front-end e Back-end 
+- 💡 Estudando Java Script, React e Node.JS
 
 
 <div align="center">
